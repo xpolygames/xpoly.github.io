@@ -1,3 +1,3 @@
-# xpoly.github.io
+# xpoly.dev
 
 Welcome to xpoly
